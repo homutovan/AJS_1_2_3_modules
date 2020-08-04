@@ -1,0 +1,23 @@
+{
+  "name": "ajs_1_2_3_modules",
+  "version": "1.0.0",
+  "description": "AJS_1_2_3_modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homutovan/AJS_1_2_3_modules.git"
+  },
+  "author": "homutovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homutovan/AJS_1_2_3_modules/issues"
+  },
+  "homepage": "https://github.com/homutovan/AJS_1_2_3_modules#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
